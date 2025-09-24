@@ -1,0 +1,9 @@
+Book 1 Details:
+Title: The Hitchhiker's Guide to the Galaxy, Author: Douglas Adams, ISBN: 978-0-345-39180-3 (Available)
+------------------------
+Book 2 Details:
+Title: Dune, Author: Frank Herbert, ISBN: 978-0-441-17271-9 (Checked Out)
+------------------------
+Book 3 Details:
+Title: 1984, Author: George Orwell, ISBN: 978-0-451-52493-5 (Available)
+------------------------
