@@ -1,0 +1,1 @@
+So this is where im going to save all my code for both lectures and homeowrks, lets try to consistenly add to this repo to get used to using git so i can get cracked
